@@ -4,7 +4,7 @@
 
 # Site
 title: Petrie's Home 
-subtitle: 音乐开大点
+subtitle:
 description:
 author: Petrie 
 language: zh-Hans
@@ -20,6 +20,7 @@ permalink_defaults:
 # Directory
 source_dir: source
 public_dir: public
+it_dir: it 
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
